@@ -1,7 +1,10 @@
+git init = "crear el repositorio de git para manejar las versiones"
 git add = "agregar un archivo al stage area"
+git add . = "agrega todos los archivos"
 git commit -m "(titulo de commit)" = hacer el commit
 git status = "ver el estado de los archivos"
 git log --oneline = "ver historial de versiones de archivos"
+git checkout "id del archivo en commit" = "ir a esa version del archivo para trabajar o modificar"
 git reset(id del archivo en commit) = "rehacer los cambios en el commit"
 git rm = "borrar archivo"
 git restore ="recupera un archivo a su ultimo commit"
