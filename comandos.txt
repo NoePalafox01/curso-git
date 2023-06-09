@@ -1,0 +1,11 @@
+git add = "agregar un archivo al stage area"
+git commit -m "(titulo de commit)" = hacer el commit
+git status = "ver el estado de los archivos"
+git log --oneline = "ver historial de versiones de archivos"
+git reset(id del archivo en commit) = "rehacer los cambios en el commit"
+git rm = "borrar archivo"
+git restore ="recupera un archivo a su ultimo commit"
+ls -a = "mostrar todos los archivos ocultos"
+ls = "ver archivos de carpeta"
+cd (nombre de la carpeta) = "moverse entre archivos"
+cd .. = "volver atras en directorios"
